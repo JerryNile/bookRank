@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9edd63b-85d5-47e0-aed8-bf705fac341f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hSaynzvoB8BA7FuiUFaemQG0Tg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../moviespider" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9edd63b-85d5-47e0-aed8-bf705fac341f" name="Default Changelist" comment="" />
+      <created>1600007203978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600007203978</updated>
+      <workItem from="1600007207444" duration="2577000" />
+      <workItem from="1600009798583" duration="51000" />
+      <workItem from="1600307542063" duration="666000" />
+      <workItem from="1600348491088" duration="53000" />
+      <workItem from="1600349425238" duration="469000" />
+      <workItem from="1600427179127" duration="512000" />
+      <workItem from="1600434133717" duration="1287000" />
+      <workItem from="1603882019569" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600434210306">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1600434210306" />
+    <state x="563" y="230" key="FileChooserDialogImpl" timestamp="1603882073504">
+      <screen x="0" y="0" width="1460" height="864" />
+    </state>
+    <state x="563" y="230" key="FileChooserDialogImpl/0.0.1460.864@0.0.1460.864" timestamp="1603882073504" />
+    <state x="592" y="222" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600348543547" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1536.864@0.0.1920.1050" timestamp="1600009292816" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1600427692849">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600427692849" />
+  </component>
+</project>
